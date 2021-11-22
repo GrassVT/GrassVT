@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GrassVT
+- 👀 I’m interested in Minor Coding
+- 🌱 I’m currently learning Javascript/Node.js
+- 📫 How to reach me Twitter - "@GrassVtuber"
